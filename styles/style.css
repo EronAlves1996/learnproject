@@ -1,3 +1,7 @@
 p{
-    color:red;
+    font-family: 'Encode Sans SC', sans-serif;
+}
+ol, ul{
+    color:crimson;
+    font-family:Arial;
 }
